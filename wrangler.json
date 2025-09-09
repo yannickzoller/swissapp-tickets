@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "swissapp-tickets",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "7a2121f7-c48a-4773-8bb1-847ddd0e410d",
+      "database_name": "swissapp-tickets"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
